@@ -1,0 +1,3 @@
+[submodule "frontend/frontend/NextJsMovieList"]
+	path = frontend/frontend/NextJsMovieList
+	url = https://github.com/ZarssssTz/NextJsMovieList.git
